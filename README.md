@@ -40,6 +40,6 @@ Le dossier `data/` ainsi que le fichier `users.db` sont créés automatiquement 
 
 ## 🛠️ Technologies utilisées
 
-- **Backend** : Java (`com.sun.net.httpserver.HttpServer`, `PBKDF2WithHmacSHA256`, `ConcurrentHashMap`)
-- **Frontend** : HTML5, CSS3 (variables CSS, thème sombre), JavaScript (`fetch`, `localStorage`)
-- **Icônes & typographie** : Font Awesome, Google Fonts (*Plus Jakarta Sans*)
+- **Backend** : Java
+- **Frontend** : HTML5, CSS3
+- **Icônes & typographie** : Font Awesome, Google Fonts
