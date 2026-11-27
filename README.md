@@ -1,4 +1,4 @@
-# 📚 StudyPlanner — Organisateur de révisions
+# 📚 StudyPlanner - Organisateur de révisions
 
 Application web d'organisation de révisions et de suivi de tâches avec authentification utilisateur, stockage sécurisé côté serveur en Java et interface responsive en HTML/CSS/JavaScript.
 
