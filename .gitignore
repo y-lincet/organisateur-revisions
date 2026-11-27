@@ -1,0 +1,14 @@
+# Fichiers compilés Java
+*.class
+*.jar
+
+# Données utilisateurs locales (comptes et tâches)
+data/
+users.db
+
+# Fichiers système et éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
